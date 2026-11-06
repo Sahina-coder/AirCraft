@@ -1,18 +1,9 @@
-# ✨ AirCraft — 3D Galaxy Gesture Intelligence Platform 🚀
-
 <div align="center">
 
-```
-   _____  .__         _________                 _____     __   
-  /  _  \ |__|______  \_   ___ \____________  _/ ____\___/  |_ 
- /  /_\  \|  \_  __ \ /    \  \/\_  __ \__  \ \   __\/ _ \   __\
-/    |    \  ||  | \/ \     \____|  | \// __ \_|  | (  <_> )  |  
-\____|__  /__||__|     \______  /|__|  (____  /|__|  \____/|__|  
-        \/                    \/            \/                  
-```
-
+# 🚀 AirCraft
+### 🌌 3D Galaxy Gesture Intelligence Platform 🌌
 **Touchless Air-Canvas & Real-Time Celestial Particle Synthesizer**  
-*Powered by MediaPipe Computer Vision, HTML5 Hardware-Accelerated 3D Canvas & Web Audio API*
+*Powered by Google MediaPipe Computer Vision, HTML5 3D Canvas & Procedural Web Audio*
 
 ---
 
